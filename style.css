@@ -1,0 +1,31 @@
+section.cabecera {
+    text-align: center;
+    color: burlywood;
+}
+
+div.moneda {
+    background-color: salmon;
+    position: relative;
+    text-align: right;
+}
+
+section.etherum {
+    position: relative;
+    left: 1200px;
+}
+
+section.litecoin {
+    background-color: salmon;
+    position: relative;
+    left: 200px;
+}
+
+footer.pie {
+    background-color: yellow;
+    text-align: center;
+    bottom: 100px;
+}
+
+span.resalto {
+    color: red;
+}
